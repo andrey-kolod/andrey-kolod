@@ -1,7 +1,10 @@
 ### Привет!👋 Я Андрей, инженер по контролю качества в IT Global  
+
 Я занимаюсь обеспечением качества программного обеспечения и увлекаюсь разработкой веб-приложений.  
 <br/>  
+
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 <h2 align="center"> QA </h2>
 <div align="center">  
@@ -15,7 +18,9 @@
 </div>
 </td></tr></table>  
 <br/>  
+
 ## Connect with me  
+
 <div align="start">
 <a href="https://github.com/andrey-kolod" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
